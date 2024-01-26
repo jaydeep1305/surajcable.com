@@ -1,0 +1,15 @@
+.btn-default{
+	color:#fff !important;
+	font-weight: 600;
+}
+.thm-btn{
+	background-color:#0C77BD;
+	line-height:22px;
+	padding:9px 20px;
+	border:0;
+	border-bottom:2px solid rgba(0,0,0,.2);
+	margin-top:15px;
+	border-radius:2px;
+	color:#fff !important;
+	font-weight: 600;
+}

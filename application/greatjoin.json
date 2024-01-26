@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ultra-airway-592",
+  "private_key_id": "cccdeb821d9cab20969a612e28827589535aeb47",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCchol7kjjRTIe8\nCQ7ZDWcX1Q9AbTXtn4Mz5esBOaXRHTPM7dTXoeQCQvPXY43abgAi0N/CzrqI3GdA\nNWxKzw1OO8LA0yysrxN9qAbPDRYAKk6n1jJqLjxN72mON+xvj+d5O9Ap9HyWR7zJ\nbQgy0+/am41ZecrNiGUFSXqH9celsNUX7jlLHA6X65Fr0RrBcPlhHMj1izs15oeK\n5/mZcPt9o0FMT/IdisyQqleHo/YtnlkgES/MZHlhzPm/Q6KDMRM50UqmcYjyL8WR\nAp5QzhO5q2hfHIfBczaCxOtW2Pf6yrcCqp/t5Kkcmo7T/iWhfPgjdOpUY1Cq5nuD\nUBc1rpiHAgMBAAECggEAQeOCUSGqyDQKeTVo6iZxrL8T1f+C8X2xqbGRnOjq6516\n1juRWpn71JXhdlwidP3UEdPSNXt3WzBISGeUp+MDy1htsWTTi/eA4WbPQu5TwgsN\nJCqO+1JuMTJkQSk6XnX5rvdmN5sCrPISvsmmZ1r+vwu20yDpJV7Sg4i8SypDefPO\n9VGruebNtC0/9A2ben8T2r0A9PZwDJcnM7/90Z8Dn61HBUdyOCMtQd57fZGPZDzp\nIKAR45f2oKxl4vMRS1vbfQKVZFG5fdRqtAbyfHEy7rxgH251hgb/rDtCq1GdsnZs\n0kD+kkLjfqwrxYGwFmsmC9ytgR8F957c5o5sEvgVGQKBgQDRVN0yERaCZ8rv7xze\n8KVJZKK9jxAD4Bg8ZfDnG+Nsy30pUdAwvlW1i391XRrixKHuUQx/iFZ8pfmR+Brk\nye059b5tx0HIki/dkE4j6y3F19qQwW9qui/6dwLFFItbDd/Epa2wRUKjBQq3g2EZ\nLXqq8vwBpNGxWXqmR+jk+dKqWQKBgQC/a+NxI2cHSUe4QtFK1Wg2PqQvlOc/rWAN\n4bDtZ1NHiwW+Ru40lOGgN9dLYJyU8zdbjX+Ecjsq2hOyw03NKmLbl3ftbD5+alQh\nxfDVEGHkGt0bRAe88EgV/jE6DTPugFrg/E+DEk8YNubuKNd1Pw2O1mhLjCrDHgX2\nMG1RzJ093wKBgBp4L6woCv+cXkXup2jtZwkbx5ROpcjHqmjgvxCKLzzPklkKNlgj\niTT2mbxedIreMFexOfJabA1A84jopYXunqeoklbRTlktWw4aNDdIgrY0sDeDrjIB\nrxVtvRTsnx55Z6U3CfpzF5UDizJfU4TaglthdEpE7BsP5HloOGPTzzapAoGBAI2l\nGQ0MJF3o5NA9aT+VwOJ64eVvqtqcwXokKlbR4XcMMXjGZde032w+Req6F8PEYY82\nmkh4er3P10mtaXHKzpIteAnQ0kGbDpxbK0WONNGk6z4UziEKMF1N1kFdqbLvedAI\nBBI6Rxrk7WcIA773pGGw2EYm9zGgksrEtPAVl7lDAoGACxeb36n0Tn4/yYpaxMic\nnSiabBTeEBro0dYDiNDyN99WcIp2sXJn0QCgV7jQyfznq5EjzDlRCxQWaURNe9mX\n2vqPEbZWuUx+FRPC8tQM5VFWBGqz5VqTgaODdA8Coy808YrcNYH1YFseYG++7XcS\nK43qIS4B/hYyeTrSIWA6VT0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "greatjoin@ultra-airway-592.iam.gserviceaccount.com",
+  "client_id": "103897687129004348231",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/greatjoin%40ultra-airway-592.iam.gserviceaccount.com"
+}
